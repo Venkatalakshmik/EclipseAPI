@@ -2,7 +2,7 @@
   "name": "apigee-nock-mock",
   "version": "1.0.0",
   "description": "This is an example of an Apigee API Proxy leveraging mock",
-  "main": "NewFile.jsp",
+  "main": "1.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
